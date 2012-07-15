@@ -1,6 +1,6 @@
 # jQuery offlineForm Plugin
 
-offlineForm is a jQuery plugin **facilitating offline capability for html forms** using [HTML5 webstorage](http://dev.w3.org/html5/webstorage/). Applying to any form it will store submitted data in the web browsers local storage whenever the user is offline and send the data to the remote server as soon as the user gets online again.
+offlineForm is a jQuery plugin **facilitating offline capability for html forms** using [HTML5 webstorage](http://dev.w3.org/html5/webstorage/). Applied to any form it will store submitted data in the web browser's local storage whenever the user is offline and send the data to the remote server as soon as the user gets online again.
 
 The plugin is in an early stage at the moment. It needs some testing to be ready for production usage. I would love to get feedback from any user testing this plugin! Currently it does support all form elements except for file fields.
 
