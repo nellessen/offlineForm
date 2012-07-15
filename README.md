@@ -10,7 +10,7 @@ Use `offlineForm` in your document's `ready` function to apply offline capabilit
 // Apply offline capibility to all forms.
 $('form').ajaxForm();
 ````
-##Options
+## Options
 You can customize functionality by specifing settings in the jQuery tipical way:
 ````javascript
 // Apply offline capibility to forms with id myform.
@@ -22,6 +22,9 @@ $('#myform').ajaxForm({
     barSelector: 'body', // Selector to prepend the status bar to.
 });
 ````
+
+## Example
+You can try out this plugin on the [example page](http://davidn.de/offlineForm/example/index.html).
 
 ---
 
