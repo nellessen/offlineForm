@@ -1,0 +1,36 @@
+{
+    "name": "offlineform",
+    "version": "0.0.1",
+    "title": "jQuery.offlineForm()",
+    "author": {
+        "name": "David Nellessen",
+        "url": "http://davidn.de"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/jquery/jquery-color/raw/2.0.0-beta.1/MIT-LICENSE.txt"
+        },
+        {
+            "type": "GPLv2",
+            "url": "https://github.com/jquery/jquery-color/raw/2.0.0-beta.1/GPL-LICENSE.txt"
+        }
+    ],
+    "dependencies": {
+        "jquery": ">=1.4"
+    },
+    "description": "The plugin provides offline capability for html forms so that users can submit web forms when offline. The data is locally stored and send as soon as the user is online again.",
+    "keywords": [
+        "offline",
+        "form",
+        "submission",
+        "localstorage"
+    ],
+    "homepage": "https://github.com/nellessen/offlineForm",
+    "maintainers": [
+        {
+            "name": "David Nellessen",
+            "url": "http://davidn.de"
+        }
+    ]
+}
